@@ -1,0 +1,3 @@
+echo Attendence system starting...
+
+python attendanceProject.py
